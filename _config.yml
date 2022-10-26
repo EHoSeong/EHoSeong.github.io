@@ -69,7 +69,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Village
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -82,7 +82,10 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This project is a service that rents and lends goods.
+          If a customer wants to borrow something from soomeone else,
+          they give us money first, and then give it to the lender
+          when the transaction is complete
   - title: Experience
     layout: list
     content:
