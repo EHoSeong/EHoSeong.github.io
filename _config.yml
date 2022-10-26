@@ -50,9 +50,9 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Hello everyone! I'm want to be developer using Java and SpringFramework!
+about_profile_image: ![KakaoTalk_20221026_181116826](https://user-images.githubusercontent.com/104763889/197989323-680a91ed-32fd-4ad8-b257-89bb3739965a.jpg)
+about_content: | # this will include new lines to allow paragraphs 
+ Hello everyone! I'm want to be developer using Java and SpringFramework!
 
 
     <h3>Skils</h3>
