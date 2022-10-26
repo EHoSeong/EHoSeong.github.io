@@ -108,6 +108,8 @@ content:
         title: Institution name
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Until now (eg. 2018 - 2022)
+        description: |
+
         -Java Programming
         -Python Programming
         -Opensource software
@@ -115,8 +117,7 @@ content:
         -C Programming
         -Data Science basic
         -And so on..
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
