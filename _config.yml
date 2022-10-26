@@ -57,11 +57,11 @@ about_content: | # this will include new lines to allow paragraphs
 
     <h3>🛠  Skils</h3>
     - <img src="https://img.shields.io/badge/JAVA-005571?style=flat-square&logo=OpenJDK&logoColor=white"/>
-    - SpringFramework
-    - Html
-    - Css
-    - JavaScript
-    - Linux
+    - <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/CSS-15172B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
 
 content:
@@ -84,7 +84,11 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          고객이 다른 사람에게 무언가를 빌리고자 하면 먼저 돈을 받아 보관을 하고 거래가 완료가 되면 판매자에게 돈을 주는 서비스 입니다.
+          This Project is lental Service
+          When a customer wants to borrow something from someone else, they pay first and then give it to the lender when the transaction is complete.
+          I'm in charge of the backend for this service 
+          I'm developing it using Java and Spring
+          
   - title: Experience
     layout: list
     content:
