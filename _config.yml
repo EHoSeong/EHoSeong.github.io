@@ -56,9 +56,13 @@ about_content: | # this will include new lines to allow paragraphs
 
 
     <h3>Skils</h3>
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+    - Java
+    - SpringFramework
+    - Html
+    - Css
+    - JavaScript
+    - Linux
+    - image test ![KakaoTalk_20220315_151106766](https://user-images.githubusercontent.com/104763889/197987665-45f0e762-e0a3-4718-812c-7f2ac662569e.jpg)
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
