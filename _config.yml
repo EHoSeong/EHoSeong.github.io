@@ -55,15 +55,14 @@ about_content: | # this will include new lines to allow paragraphs
  Hello everyone! I'm want to be developer using Java and SpringFramework!
 
 
-    <h3>Skils</h3>
-    - Java
+    <h3>🛠  Skils</h3>
+    - <img src="https://img.shields.io/badge/JAVA-005571?style=flat-square&logo=OpenJDK&logoColor=white"/>
     - SpringFramework
     - Html
     - Css
     - JavaScript
     - Linux
-    
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
 
 content:
   - title: Projects # Title for the section
@@ -85,10 +84,7 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          This project is a service that rents and lends goods.
-          If a customer wants to borrow something from soomeone else,
-          they give us money first, and then give it to the lender
-          when the transaction is complete
+          고객이 다른 사람에게 무언가를 빌리고자 하면 먼저 돈을 받아 보관을 하고 거래가 완료가 되면 판매자에게 돈을 주는 서비스 입니다.
   - title: Experience
     layout: list
     content:
