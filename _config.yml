@@ -84,10 +84,11 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          This Project is lental Service
+        <p> 
+ This Project is lental Service
           When a customer wants to borrow something from someone else, they pay first and then give it to the lender when the transaction is complete.
           I'm in charge of the backend for this service 
-          I'm developing it using Java and Spring
+          I'm developing it using Java and Spring</p>
           
   - title: Experience
     layout: list
