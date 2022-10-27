@@ -81,7 +81,7 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
+        quote: 
           Short overview of the project (optional)
         description:  # this will include new lines to allow paragraphs
         <div> 
@@ -103,13 +103,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Educations
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
         caption: Until now (eg. 2018 - 2022)
-        description: |
+        description:
 
         -Java Programming
         -Python Programming
